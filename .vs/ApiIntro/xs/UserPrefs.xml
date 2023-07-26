@@ -1,0 +1,40 @@
+﻿<Properties StartupConfiguration="{CF7FCDB1-506E-4D12-BAED-2F9DA57CD599}|https">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ApiIntro/Controllers/CategoriesController.cs">
+    <Files>
+      <File FileName="ApiIntro/Program.cs" />
+      <File FileName="ApiIntro/Properties/launchSettings.json" />
+      <File FileName="ApiIntro/Controllers/CategoriesController.cs" Line="81" Column="26" />
+      <File FileName="ApiIntro/Entities/Category.cs" />
+      <File FileName="ApiIntro/Contexts/ApiDbContext.cs" />
+      <File FileName="ApiIntro/appsettings.json" />
+      <File FileName="ApiIntro/Dtos/Categories/CategoryPostDto.cs" />
+      <File FileName="ApiIntro/Validations/Categries/CategoryPostDtoValidation.cs" />
+      <File FileName="ApiIntro/Dtos/Categories/CategoryUpdateDto.cs" />
+      <File FileName="ApiIntro/Validations/Categries/CategoryUpdateDtoValidation.cs" />
+      <File FileName="ApiIntro/Profiles/Categories/CategoryProfile.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ApiIntro" expanded="True">
+            <Node name="ApiIntro" expanded="True">
+              <Node name="Controllers" expanded="True">
+                <Node name="CategoriesController.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.ApiIntro PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/ehedtagiyev/Projects/ApiIntro/ApiIntro/Controllers/CategoriesController.cs" relfile="ApiIntro/Controllers/CategoriesController.cs" line="51" column="1" />
+      <Breakpoint file="/Users/ehedtagiyev/Projects/ApiIntro/ApiIntro/Controllers/CategoriesController.cs" relfile="ApiIntro/Controllers/CategoriesController.cs" line="78" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
