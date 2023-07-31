@@ -1,0 +1,17 @@
+/Users/ehedtagiyev/Projects/ApiIntro/ApiIntro.Service/bin/Debug/net7.0/ApiIntro.Service.deps.json
+/Users/ehedtagiyev/Projects/ApiIntro/ApiIntro.Service/bin/Debug/net7.0/ApiIntro.Service.dll
+/Users/ehedtagiyev/Projects/ApiIntro/ApiIntro.Service/bin/Debug/net7.0/ApiIntro.Service.pdb
+/Users/ehedtagiyev/Projects/ApiIntro/ApiIntro.Service/bin/Debug/net7.0/ApiIntro.Core.dll
+/Users/ehedtagiyev/Projects/ApiIntro/ApiIntro.Service/bin/Debug/net7.0/ApiIntro.Data.dll
+/Users/ehedtagiyev/Projects/ApiIntro/ApiIntro.Service/bin/Debug/net7.0/ApiIntro.Data.pdb
+/Users/ehedtagiyev/Projects/ApiIntro/ApiIntro.Service/bin/Debug/net7.0/ApiIntro.Core.pdb
+/Users/ehedtagiyev/Projects/ApiIntro/ApiIntro.Service/obj/Debug/net7.0/ApiIntro.Service.csproj.AssemblyReference.cache
+/Users/ehedtagiyev/Projects/ApiIntro/ApiIntro.Service/obj/Debug/net7.0/ApiIntro.Service.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ehedtagiyev/Projects/ApiIntro/ApiIntro.Service/obj/Debug/net7.0/ApiIntro.Service.AssemblyInfoInputs.cache
+/Users/ehedtagiyev/Projects/ApiIntro/ApiIntro.Service/obj/Debug/net7.0/ApiIntro.Service.AssemblyInfo.cs
+/Users/ehedtagiyev/Projects/ApiIntro/ApiIntro.Service/obj/Debug/net7.0/ApiIntro.Service.csproj.CoreCompileInputs.cache
+/Users/ehedtagiyev/Projects/ApiIntro/ApiIntro.Service/obj/Debug/net7.0/ApiIntro.Service.csproj.CopyComplete
+/Users/ehedtagiyev/Projects/ApiIntro/ApiIntro.Service/obj/Debug/net7.0/ApiIntro.Service.dll
+/Users/ehedtagiyev/Projects/ApiIntro/ApiIntro.Service/obj/Debug/net7.0/refint/ApiIntro.Service.dll
+/Users/ehedtagiyev/Projects/ApiIntro/ApiIntro.Service/obj/Debug/net7.0/ApiIntro.Service.pdb
+/Users/ehedtagiyev/Projects/ApiIntro/ApiIntro.Service/obj/Debug/net7.0/ref/ApiIntro.Service.dll

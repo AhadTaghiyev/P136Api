@@ -11,52 +11,38 @@
   <ItemGroup>
     <PackageReference Include="Microsoft.AspNetCore.OpenApi" Version="7.0.5" />
     <PackageReference Include="Swashbuckle.AspNetCore" Version="6.4.0" />
-    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="7.0.9" />
-    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="7.0.9" />
     <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="7.0.9">
       <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
       <PrivateAssets>all</PrivateAssets>
     </PackageReference>
-    <PackageReference Include="FluentValidation.DependencyInjectionExtensions" Version="11.6.0" />
-    <PackageReference Include="FluentValidation.AspNetCore" Version="11.3.0" />
-    <PackageReference Include="FluentValidation" Version="11.6.0" />
-    <PackageReference Include="AutoMapper.Extensions.Microsoft.DependencyInjection" Version="12.0.1" />
+    <PackageReference Include="Microsoft.AspNetCore.Authentication.JwtBearer" Version="7.0.9" />
   </ItemGroup>
 
   <ItemGroup>
-    <None Remove="Controllers\" />
-    <None Remove="Entities\" />
-    <None Remove="Contexts\" />
-    <None Remove="Dtos\" />
-    <None Remove="Dtos\Categories\" />
-    <None Remove="Validations\" />
-    <None Remove="Validations\Categries\" />
-    <None Remove="Profiles\" />
-    <None Remove="Profiles\Categories\" />
-    <None Remove="Repositories\" />
-    <None Remove="Repositories\Interfaces\" />
-    <None Remove="Repositories\Implementations\" />
-    <None Remove="Services\" />
-    <None Remove="Services\Interfaces\" />
-    <None Remove="Services\Implementations\" />
-    <None Remove="Responses\" />
+    <None Remove="Apps\" />
+    <None Remove="Apps\Admin\" />
+    <None Remove="Apps\Client\" />
+    <None Remove="Apps\Admin\Controllers\" />
+    <None Remove="Apps\Client\Controllers\" />
   </ItemGroup>
   <ItemGroup>
-    <Folder Include="Controllers\" />
-    <Folder Include="Entities\" />
-    <Folder Include="Contexts\" />
-    <Folder Include="Dtos\" />
-    <Folder Include="Dtos\Categories\" />
-    <Folder Include="Validations\" />
-    <Folder Include="Validations\Categries\" />
-    <Folder Include="Profiles\" />
-    <Folder Include="Profiles\Categories\" />
-    <Folder Include="Repositories\" />
-    <Folder Include="Repositories\Interfaces\" />
-    <Folder Include="Repositories\Implementations\" />
-    <Folder Include="Services\" />
-    <Folder Include="Services\Interfaces\" />
-    <Folder Include="Services\Implementations\" />
-    <Folder Include="Responses\" />
+    <Folder Include="wwwroot\" />
+    <Folder Include="wwwroot\assets\" />
+    <Folder Include="wwwroot\assets\images\" />
+    <Folder Include="Apps\" />
+    <Folder Include="Apps\Admin\" />
+    <Folder Include="Apps\Client\" />
+    <Folder Include="Apps\Admin\Controllers\" />
+    <Folder Include="Apps\Client\Controllers\" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\ApiIntro.Service\ApiIntro.Service.csproj">
+      <GlobalPropertiesToRemove></GlobalPropertiesToRemove>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Remove="wwwroot\" />
+    <Content Remove="wwwroot\assets\" />
+    <Content Remove="wwwroot\assets\images\" />
   </ItemGroup>
 </Project>

@@ -79,3 +79,17 @@
 /Users/ehedtagiyev/Projects/ApiIntro/ApiIntro/bin/Debug/net7.0/FluentValidation.DependencyInjectionExtensions.dll
 /Users/ehedtagiyev/Projects/ApiIntro/ApiIntro/bin/Debug/net7.0/AutoMapper.dll
 /Users/ehedtagiyev/Projects/ApiIntro/ApiIntro/bin/Debug/net7.0/AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+/Users/ehedtagiyev/Projects/ApiIntro/ApiIntro/bin/Debug/net7.0/ApiIntro.Core.dll
+/Users/ehedtagiyev/Projects/ApiIntro/ApiIntro/bin/Debug/net7.0/ApiIntro.Data.dll
+/Users/ehedtagiyev/Projects/ApiIntro/ApiIntro/bin/Debug/net7.0/ApiIntro.Service.dll
+/Users/ehedtagiyev/Projects/ApiIntro/ApiIntro/bin/Debug/net7.0/ApiIntro.Service.pdb
+/Users/ehedtagiyev/Projects/ApiIntro/ApiIntro/bin/Debug/net7.0/ApiIntro.Core.pdb
+/Users/ehedtagiyev/Projects/ApiIntro/ApiIntro/bin/Debug/net7.0/ApiIntro.Data.pdb
+/Users/ehedtagiyev/Projects/ApiIntro/ApiIntro/bin/Debug/net7.0/ApiIntro.staticwebassets.runtime.json
+/Users/ehedtagiyev/Projects/ApiIntro/ApiIntro/bin/Debug/net7.0/Microsoft.AspNetCore.Cryptography.Internal.dll
+/Users/ehedtagiyev/Projects/ApiIntro/ApiIntro/bin/Debug/net7.0/Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+/Users/ehedtagiyev/Projects/ApiIntro/ApiIntro/bin/Debug/net7.0/Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+/Users/ehedtagiyev/Projects/ApiIntro/ApiIntro/bin/Debug/net7.0/Microsoft.Extensions.Identity.Core.dll
+/Users/ehedtagiyev/Projects/ApiIntro/ApiIntro/bin/Debug/net7.0/Microsoft.Extensions.Identity.Stores.dll
+/Users/ehedtagiyev/Projects/ApiIntro/ApiIntro/bin/Debug/net7.0/Microsoft.Extensions.Options.dll
+/Users/ehedtagiyev/Projects/ApiIntro/ApiIntro/bin/Debug/net7.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll

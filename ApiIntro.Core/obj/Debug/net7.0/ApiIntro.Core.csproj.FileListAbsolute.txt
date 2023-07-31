@@ -1,0 +1,12 @@
+/Users/ehedtagiyev/Projects/ApiIntro/ApiIntro.Core/bin/Debug/net7.0/ApiIntro.Core.deps.json
+/Users/ehedtagiyev/Projects/ApiIntro/ApiIntro.Core/bin/Debug/net7.0/ApiIntro.Core.dll
+/Users/ehedtagiyev/Projects/ApiIntro/ApiIntro.Core/bin/Debug/net7.0/ApiIntro.Core.pdb
+/Users/ehedtagiyev/Projects/ApiIntro/ApiIntro.Core/obj/Debug/net7.0/ApiIntro.Core.csproj.AssemblyReference.cache
+/Users/ehedtagiyev/Projects/ApiIntro/ApiIntro.Core/obj/Debug/net7.0/ApiIntro.Core.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ehedtagiyev/Projects/ApiIntro/ApiIntro.Core/obj/Debug/net7.0/ApiIntro.Core.AssemblyInfoInputs.cache
+/Users/ehedtagiyev/Projects/ApiIntro/ApiIntro.Core/obj/Debug/net7.0/ApiIntro.Core.AssemblyInfo.cs
+/Users/ehedtagiyev/Projects/ApiIntro/ApiIntro.Core/obj/Debug/net7.0/ApiIntro.Core.csproj.CoreCompileInputs.cache
+/Users/ehedtagiyev/Projects/ApiIntro/ApiIntro.Core/obj/Debug/net7.0/ApiIntro.Core.dll
+/Users/ehedtagiyev/Projects/ApiIntro/ApiIntro.Core/obj/Debug/net7.0/refint/ApiIntro.Core.dll
+/Users/ehedtagiyev/Projects/ApiIntro/ApiIntro.Core/obj/Debug/net7.0/ApiIntro.Core.pdb
+/Users/ehedtagiyev/Projects/ApiIntro/ApiIntro.Core/obj/Debug/net7.0/ref/ApiIntro.Core.dll

@@ -1,0 +1,44 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net7.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Dtos\" />
+    <None Remove="Profiles\" />
+    <None Remove="Responses\" />
+    <None Remove="Services\" />
+    <None Remove="Validations\" />
+    <None Remove="Profiles\Products\" />
+    <None Remove="Dtos\Categories %28copy%29\" />
+    <None Remove="Validations\Products\" />
+    <None Remove="Extentions\" />
+    <None Remove="Dtos\Accounts\" />
+    <None Remove="Validations\Accounts\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Dtos\" />
+    <Folder Include="Profiles\" />
+    <Folder Include="Responses\" />
+    <Folder Include="Services\" />
+    <Folder Include="Validations\" />
+    <Folder Include="Profiles\Products\" />
+    <Folder Include="Dtos\Products\" />
+    <Folder Include="Validations\Products\" />
+    <Folder Include="Extentions\" />
+    <Folder Include="Dtos\Accounts\" />
+    <Folder Include="Validations\Accounts\" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\ApiIntro.Data\ApiIntro.Data.csproj" />
+  </ItemGroup>
+  <ItemGroup>
+    <PackageReference Include="AutoMapper.Extensions.Microsoft.DependencyInjection" Version="12.0.1" />
+    <PackageReference Include="FluentValidation" Version="11.6.0" />
+    <PackageReference Include="FluentValidation.DependencyInjectionExtensions" Version="11.6.0" />
+    <PackageReference Include="FluentValidation.AspNetCore" Version="11.3.0" />
+  </ItemGroup>
+</Project>

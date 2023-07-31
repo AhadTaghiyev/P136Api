@@ -1,40 +1,53 @@
 ﻿<Properties StartupConfiguration="{CF7FCDB1-506E-4D12-BAED-2F9DA57CD599}|https">
-  <MonoDevelop.Ide.Workbench ActiveDocument="ApiIntro/Controllers/CategoriesController.cs">
+  <MonoDevelop.Ide.ItemProperties.ApiIntro.Client FirstBuild="True" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <Breakpoint file="/Users/ehedtagiyev/Projects/ApiIntro/ApiIntro/Controllers/ProductsController.cs" relfile="ApiIntro/Controllers/ProductsController.cs" line="39" column="1" />
+    <Breakpoint file="/Users/ehedtagiyev/Projects/ApiIntro/ApiIntro.Service/Services/Implementations/ProductService.cs" relfile="ApiIntro.Service/Services/Implementations/ProductService.cs" line="35" column="1" />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="ApiIntro/Program.cs">
     <Files>
-      <File FileName="ApiIntro/Program.cs" />
+      <File FileName="ApiIntro/Program.cs" Line="51" Column="17" />
       <File FileName="ApiIntro/Properties/launchSettings.json" />
-      <File FileName="ApiIntro/Controllers/CategoriesController.cs" Line="81" Column="26" />
-      <File FileName="ApiIntro/Entities/Category.cs" />
-      <File FileName="ApiIntro/Contexts/ApiDbContext.cs" />
       <File FileName="ApiIntro/appsettings.json" />
-      <File FileName="ApiIntro/Dtos/Categories/CategoryPostDto.cs" />
-      <File FileName="ApiIntro/Validations/Categries/CategoryPostDtoValidation.cs" />
-      <File FileName="ApiIntro/Dtos/Categories/CategoryUpdateDto.cs" />
-      <File FileName="ApiIntro/Validations/Categries/CategoryUpdateDtoValidation.cs" />
-      <File FileName="ApiIntro/Profiles/Categories/CategoryProfile.cs" />
+      <File FileName="ApiIntro.Service/Dtos/Categories/CategoryPostDto.cs" />
+      <File FileName="ApiIntro.Service/Dtos/Categories/CategoryUpdateDto.cs" />
+      <File FileName="ApiIntro.Service/Profiles/Categories/CategoryProfile.cs" />
+      <File FileName="ApiIntro.Service/Responses/ApiResponse.cs" />
+      <File FileName="ApiIntro.Service/Validations/Categries/CategoryPostDtoValidation.cs" />
+      <File FileName="ApiIntro.Service/Validations/Categries/CategoryUpdateDtoValidation.cs" />
+      <File FileName="ApiIntro.Service/Services/Interfaces/ICategoryService.cs" />
+      <File FileName="ApiIntro.Service/Services/Implementations/CategoryService.cs" />
+      <File FileName="ApiIntro.Core/Entities/BaseEntities/BaseEntity.cs" />
+      <File FileName="ApiIntro.Core/Entities/Category.cs" />
+      <File FileName="ApiIntro.Data/Contexts/ApiDbContext.cs" />
+      <File FileName="ApiIntro.Data/Configurations/CategoryConfiguration.cs" />
+      <File FileName="ApiIntro.Data/Configurations/ProductConfiguration.cs" />
+      <File FileName="ApiIntro.Core/Repositories/IProductRepository.cs" />
+      <File FileName="ApiIntro.Data/Repositories/Implementations/ProductRepository.cs" />
+      <File FileName="ApiIntro.Service/Profiles/Products/ProductProfile.cs" />
+      <File FileName="ApiIntro.Service/Dtos/Products/ProductGetDto.cs" Line="13" Column="2" />
+      <File FileName="ApiIntro.Service/Dtos/Products/ProductPostDto.cs" />
+      <File FileName="ApiIntro.Service/Dtos/Products/ProductUpdateDto.cs" />
+      <File FileName="ApiIntro.Service/Validations/Products/ProductPostDtoValidation.cs" Line="17" Column="1" />
+      <File FileName="ApiIntro.Service/Extentions/FileExtention.cs" Line="9" Column="1" />
+      <File FileName="ApiIntro.Service/Services/Interfaces/IProductService.cs" />
+      <File FileName="ApiIntro.Service/Services/Implementations/ProductService.cs" Line="56" Column="10" />
+      <File FileName="ApiIntro/Controllers/ProductsController.cs" Line="39" Column="1" />
+      <File FileName="ApiIntro/Controllers/CategoriesController.cs" />
+      <File FileName="ApiIntro.Core/Entities/Product.cs" Line="11" Column="27" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="ApiIntro" expanded="True">
-            <Node name="ApiIntro" expanded="True">
-              <Node name="Controllers" expanded="True">
-                <Node name="CategoriesController.cs" selected="True" />
-              </Node>
-            </Node>
+            <Node name="ApiIntro" expanded="True" selected="True" />
           </Node>
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.ItemProperties.ApiIntro PreferredExecutionTarget="/Applications/Google Chrome.app" />
-  <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore>
-      <Breakpoint file="/Users/ehedtagiyev/Projects/ApiIntro/ApiIntro/Controllers/CategoriesController.cs" relfile="ApiIntro/Controllers/CategoriesController.cs" line="51" column="1" />
-      <Breakpoint file="/Users/ehedtagiyev/Projects/ApiIntro/ApiIntro/Controllers/CategoriesController.cs" relfile="ApiIntro/Controllers/CategoriesController.cs" line="78" column="1" />
-    </BreakpointStore>
-  </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
 </Properties>
